@@ -1,4 +1,4 @@
-# python_molbot_2026
+# DNA circuit simulation with Python
 Python Code Used in the Molecular Robotics Summer School 2026
 
 This repository provides a tutorial notebook for learning the modeling and the simulations of reaction kinetics of DNA circuits with Python. The tutorial is intended for those who want to simulate the dynamics (time evolution) of chemical reactions, and those who are interested in the design of DNA circuits based on mathematical models. It introduces requisite mathematical and computational materials, from the law of mass action to ordinary differential equations (ODEs) and their numerical solutions. All documents/instructions are written in Japanese.
