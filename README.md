@@ -1,7 +1,6 @@
 # python_molbot_2026
 Python Code Used in the Molecular Robotics Summer School 2026
 
-## DNA circuit simulation with Python
 This repository provides a tutorial notebook for learning the modeling and the simulations of reaction kinetics of DNA circuits with Python. The tutorial is intended for those who want to simulate the dynamics (time evolution) of chemical reactions, and those who are interested in the design of DNA circuits based on mathematical models. It introduces requisite mathematical and computational materials, from the law of mass action to ordinary differential equations (ODEs) and their numerical solutions. All documents/instructions are written in Japanese.
 
 ## Features
@@ -18,17 +17,10 @@ This repository provides a tutorial notebook for learning the modeling and the s
 7. Advanced topic: can reactions with intermediates be written with a simple model?
 
 ## Usage
-* Run the .ipynb file on Jupyter Notebook or compatible platforms including [Google Colaboratory](https://colab.research.google.com/).
-* When opening the file on Google Colaboratory, save a copy to your own Google Drive first. Otherwise, your changes may not be saved.
-* The slider bars (`#@param`) are available only on Google Colaboratory.
+* Download the .ipynb file and upload it to [Google Colaboratory](https://colab.research.google.com/) to use it. The slider bars (`#@param`) work as intended on Colaboratory.
 
 ## Requirement
-* Python 3
-* NumPy, SciPy, Matplotlib
-
-## Link
-<!-- * [Main document (DNA回路_ソフトウェア基盤_2026_github.ipynb)](ここにURL) -->
-
+* Google Colaboratory (recommended)
 
 ## Authors
 The documents/codes are authored by the following contributors.
